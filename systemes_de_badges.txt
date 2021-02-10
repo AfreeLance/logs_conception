@@ -1,0 +1,9 @@
+Systems de badges:
+ Les utilisateurs sont primees en fonctions de leurs contributions sur la plateforms comme stackOverflow 
+
+ Exemple de badges:
+   + Bagdes du grand volonataires
+   + Bagdes de poste pertinant
+   + Bagdes mentor sur une tecno precise
+   + badges du nombre de probleme resolu
+   + etc....
